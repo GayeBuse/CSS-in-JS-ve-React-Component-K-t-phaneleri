@@ -1,0 +1,114 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 9,
+  "numPassedTests": 9,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1705352669182,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " App.jsx'e bootstrap css'i dokümantasyondaki gibi import edilmiş ",
+          "status": "passed",
+          "title": "App.jsx'e bootstrap css'i dokümantasyondaki gibi import edilmiş ",
+          "duration": 92,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Offer.jsx'e bir functional component tanımlanmış",
+          "status": "passed",
+          "title": "Offer.jsx'e bir functional component tanımlanmış",
+          "duration": 41,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Offer.jsx'de sahteVeri import edilmiş",
+          "status": "passed",
+          "title": "Offer.jsx'de sahteVeri import edilmiş",
+          "duration": 14,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Offer.jsx'de reactstrap Carousel componenti kullanılmış",
+          "status": "passed",
+          "title": "Offer.jsx'de reactstrap Carousel componenti kullanılmış",
+          "duration": 13,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " App.jsx'de Offer componenti kullanılmış",
+          "status": "passed",
+          "title": "App.jsx'de Offer componenti kullanılmış",
+          "duration": 17,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Kampanya 1 Metinleri Doğru görünüyor",
+          "status": "passed",
+          "title": "Kampanya 1 Metinleri Doğru görünüyor",
+          "duration": 44,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Kampanya 2 Metinleri Doğru görünüyor",
+          "status": "passed",
+          "title": "Kampanya 2 Metinleri Doğru görünüyor",
+          "duration": 16,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Kampanya 3 Metinleri Doğru görünüyor",
+          "status": "passed",
+          "title": "Kampanya 3 Metinleri Doğru görünüyor",
+          "duration": 19,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Sol-sağ butonları ve aşağıdaki slide sayısı butonları doğru sayıda render ediliyor.",
+          "status": "passed",
+          "title": "Sol-sağ butonları ve aşağıdaki slide sayısı butonları doğru sayıda render ediliyor.",
+          "duration": 146,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1705352681038,
+      "endTime": 1705352681442,
+      "status": "passed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-cw5eef/src/__tests__/index.test.jsx"
+    }
+  ]
+}
